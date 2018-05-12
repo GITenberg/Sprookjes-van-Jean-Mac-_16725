@@ -1,0 +1,46 @@
+_repo: Sprookjes-van-Jean-Mac-_16725
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wiegman, Jan
+    alias: Wiegman, Johannes Petrus Antonius
+    birthdate: 1884
+    deathdate: 1963
+    gutenberg_agent_id: '6891'
+    url: http://www.gutenberg.org/2009/agents/6891
+  translator:
+    agent_name: Hermanna
+    aliases:
+    - Schluter, Alberdina Hermanna
+    - Schlüter, Alberdina Hermanna
+    birthdate: 1877
+    deathdate: 1946
+    gutenberg_agent_id: '6890'
+    url: http://www.gutenberg.org/2009/agents/6890
+covers:
+- cover_type: archival
+  image_path: 16725-h/images/cover-illustration.jpg
+creator:
+  author:
+    agent_name: Macé, Jean
+    aliases:
+    - Moreau, Jean
+    - Mace, Jean
+    birthdate: 1815
+    deathdate: 1894
+    gutenberg_agent_id: '2282'
+    url: http://www.gutenberg.org/2009/agents/2282
+description: ''
+gutenberg_issued: '2005-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16725'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+title: Sprookjes van Jean Macé
+url: http://www.gutenberg.org/ebooks/16725
